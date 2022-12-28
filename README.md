@@ -39,7 +39,7 @@ npm run start
 ``` curl
 localhost:7000/login
 ```
-4. You can use <admin@medusa-test.com as your email and <supersecret> as your password.
+4. You can use <admin@medusa-test.com as your email and <supersecret as your password.
 ## Other Resources
 
 _If any other resources in our documentation or other documentations are relevant to the tutorial, add them here._
